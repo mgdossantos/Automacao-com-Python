@@ -1,0 +1,5 @@
+pandas
+requests
+matplotlib
+openpyxl
+reportlab==3.6.12
